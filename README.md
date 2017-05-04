@@ -19,3 +19,8 @@ Based on an original "one class wonder". This version splits the code across fiv
 
 The assignment is basically to turn this into a multi-alarm clock, using a Priority Queue of alarm objects, and incorporating a feature
 where the clock can save its alarms to file using the iCalendar format, and read an iCalendar file back to load up alarms.
+
+
+Original template created by Ian Barnes.
+Updated version created by Victoria Maciver for Software Construction unit of BSc Computing, 2016-12-04
+Copied to public repository with permission.
